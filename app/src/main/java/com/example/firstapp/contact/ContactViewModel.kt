@@ -66,5 +66,4 @@ class ContactViewModel(
             database.insert(contact)
         }
     }
-
 }
